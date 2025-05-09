@@ -1,0 +1,18 @@
+#canvas {
+    cursor: crosshair;
+    border: 1px solid #000000;
+    background-size: 100% 100%;
+}
+
+#main {
+    display: inline-block;
+}
+
+#indications {
+    width: 200px;
+    height: 450px;
+}
+
+#imageContent {
+    width: 800px;
+}
